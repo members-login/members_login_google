@@ -1,4 +1,4 @@
-# Members: Google Login 
+# Members: Google Login
 
 > Logs in users using Google Log in
 
